@@ -18,12 +18,12 @@ This is a simple, console-based ATM system built in C++ using Object-Oriented Pr
 🧱 Project Structure
 
  
-CPP-ATM-SYSTEM/
+```CPP-ATM-SYSTEM/
 ├── src/
 │ ├── main.cpp → Entry point of the program
 │ ├── Account.h/.cpp → Handles all account logic
 │ ├── Atm.h/.cpp → Manages login and menu interaction
-├── README.md → Project overview and instructions
+├── README.md → Project overview and instructions```
 
 
 🛠️ How to Compile & Run:
